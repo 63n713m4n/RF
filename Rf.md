@@ -5,7 +5,7 @@ For generating the data in GNURadio Companion the following are the prequsites
 3. Two OOT modules gr-nrsc5 and gr-ham
 
 
-GNURadio Companion v3.8 installation instruction under U18.04
+ # GNURadio Companion v3.8 installation instruction under U18.04
 1. Install the following dependencies
 sudo apt install git cmake g++ libboost-all-dev libgmp-dev swig python3-numpy \
 python3-mako python3-sphinx python3-lxml doxygen libfftw3-dev \
